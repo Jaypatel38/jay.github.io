@@ -1,6 +1,6 @@
 {
     "appName" : "Ball Sort Puzzle",
-    "packageName" : "com.",
+    "packageName" : "",
     "adPriority": "Admob",
     "showAdmob" : "1",
     "showFb" : "1",
