@@ -1,8 +1,8 @@
 {
     "appName" : "Helix Jump",
-    "packageName" : "c",
+    "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "1",
     "G_appId": "ca-app-pub-3187358736119310~6169230406",
     "G_banner": "ca-app-pub-3187358736119310/1402142978",
