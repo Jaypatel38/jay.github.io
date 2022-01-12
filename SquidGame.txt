@@ -6,7 +6,7 @@
     "showAdmob" : "1",
     "showFb" : "0",
     "G_appId": "ca-app-pub-3940256099942544~3347511713",
-    "G_banner": "/22387492205,22572494549/com.squidgame.greenlight.redlight.challengersurvival.SquidGame3D.Banner0.1635842238",
+    "G_banner": "/22387492205,22572494549/com.squidgame.greenlight.redlight.challengersurvival.SquidGame3D.Native0.1641877170",
     "G_int": "/22387492205,22572494549/com.squidgame.greenlight.redlight.challengersurvival.SquidGame3D.Interstitial0.1635842264",
     "G_native": "ca-app-pub-3940256099942544/2247696110",
     "G_rewarded": "/22387492205,22572494549/com.squidgame.greenlight.redlight.challengersurvival.SquidGame3D.Rewarded0.1635842286",
