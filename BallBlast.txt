@@ -6,7 +6,7 @@
     "showAdmob" : "1",
     "showFb" : "1",
     "G_appId": "ca-app-pub-6822455961648595~5002866588",
-    "G_banner": "/22387492205,22572494549/com.ball.blast.cannon.shooter.Banner0.1631635366",
+    "G_banner": "/22387492205,22572494549/com.ball.blast.cannon.shooter.Native0.1642001315",
     "G_int": "/22387492205,22572494549/com.ball.blast.cannon.shooter.Interstitial0.1631635387",
     "G_native": "ca-app-pub-3940256099942544/2247696110",
     "G_rewarded": "/22387492205,22572494549/com.ball.blast.cannon.shooter.Rewarded0.1631635465",

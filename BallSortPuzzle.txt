@@ -6,7 +6,7 @@
     "showAdmob" : "1",
     "showFb" : "1",
     "G_appId": "ca-app-pub-6822455961648595~5283903381",
-    "G_banner": "/22387492205,22572494549/com.swipe.ball.mind.game.Banner0.1630488739",
+    "G_banner": "/22387492205,22572494549/com.swipe.ball.mind.game.Native0.1642001298",
     "G_int": "/22387492205,22572494549/com.swipe.ball.mind.game.Interstitial0.1630488830",
     "G_rewarded": "/22387492205,22572494549/com.swipe.ball.mind.game.Rewarded0.1630488855",
     "G_native": "ca-app-pub-3940256099942544/2247696110",
