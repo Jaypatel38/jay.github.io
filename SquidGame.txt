@@ -1,5 +1,5 @@
 {
-    "Account" : "Arpit",
+    "Account" : "Dharmi_GG",
     "appName" : "Squid Game",
     "packageName" : "",
     "adPriority": "Admob",

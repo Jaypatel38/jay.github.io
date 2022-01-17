@@ -1,5 +1,5 @@
 {
-    "Account" : "Arpi",
+    "Account" : "Arpit",
     "appName" : "RouletteSlotCasino",
     "packageName" : "",
     "adPriority": "Admob",
