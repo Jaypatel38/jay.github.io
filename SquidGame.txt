@@ -3,7 +3,7 @@
     "appName" : "Squid Game",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "0",
     "G_appId": "ca-app-pub-3940256099942544~3347511713",
     "G_banner": "/22387492205,22572494549/com.squidgame.greenlight.redlight.challengersurvival.SquidGame3D.Native0.1641877170",
