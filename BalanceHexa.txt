@@ -3,7 +3,7 @@
     "appName" : "Balance Hexa",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "1",
     "G_appId": "ca-app-pub-6822455961648595~1897712168",
     "G_banner": "/22387492205,22572494549/com.hexa.balance.blast.block.Banner0.1632151569",

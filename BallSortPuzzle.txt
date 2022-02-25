@@ -3,7 +3,7 @@
     "appName" : "Ball Sort Puzzle",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "1",
     "G_appId": "ca-app-pub-6822455961648595~5283903381",
     "G_banner": "/22387492205,22572494549/com.swipe.ball.mind.game.Native0.1642001298",

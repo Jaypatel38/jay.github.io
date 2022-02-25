@@ -3,7 +3,7 @@
     "appName" : "Ball Sort Puzzle 3D",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "1",
     "G_appId": "ca-app-pub-1291919796886141~5300746454",
     "G_banner": "ca-app-pub-1291919796886141/4582900468",

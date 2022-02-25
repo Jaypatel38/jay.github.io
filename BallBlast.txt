@@ -3,7 +3,7 @@
     "appName" : "Ball Blast",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "1",
     "G_appId": "ca-app-pub-6822455961648595~5002866588",
     "G_banner": "/22387492205,22572494549/com.ball.blast.cannon.shooter.Native0.1642001315",

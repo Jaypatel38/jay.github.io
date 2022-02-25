@@ -3,7 +3,7 @@
     "appName" : "Ball Stack 3D",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "1",
     "G_appId": "ca-app-pub-6822455961648595~6575323778",
     "G_banner": "/22387492205,22572494549/com.stackjumpingball.ballstack.helixtower3D.Banner0.1633422069",
