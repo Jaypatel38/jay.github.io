@@ -4,7 +4,7 @@
     "packageName" : "",
     "adPriority": "Admob",
     "showAdmob" : "1",
-    "showFb" : "0",
+    "showFb" : "1",
     "G_appId": "ca-app-pub-3940256099942544~3347511713",
     "G_banner": "/22387492205,22572494549/com.sliding.cube.RollingCube3D.Banner0.1650268192",
     "G_int": "/22387492205,22572494549/com.sliding.cube.RollingCube3D.Interstitial0.1650268221",
