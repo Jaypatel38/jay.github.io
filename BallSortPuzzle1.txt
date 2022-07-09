@@ -3,7 +3,7 @@
     "appName" : "Ball Sort Puzzle",
     "packageName" : "",
     "adPriority": "Admob",
-    "showApplovin" : "0",
+    "showApplovin" : "1",
     "showAdmob" : "0",
     "showFb" : "0",
     "InteractionCount" : 2,
