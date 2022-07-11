@@ -7,7 +7,7 @@
     "showAdmob" : "0",
     "showFb" : "0",
     "InteractionCount" : 2,
-    "AL_banner" : "c1586ad841a06c22",
+    "AL_banner" : "7e86312d10f52f86",
     "AL_int" : "0b2f2673f57883ea",
     "AL_rewarded" : "8350e54e55e36476",
     "G_appId": "ca-app-pub-4315505804541718~4712229417",
