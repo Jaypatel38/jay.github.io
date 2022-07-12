@@ -5,7 +5,7 @@
     "adPriority": "Admob",
     "showAdmob" : "0",
     "showFb" : "1",
-    "InteractionCount" : 2,
+    "InteractionCount" : 1,
     "G_appId": "ca-app-pub-4315505804541718~8435281184",
     "G_banner": "ca-app-pub-4315505804541718/9556791163",
     "G_int": "ca-app-pub-4315505804541718/5617546150",
