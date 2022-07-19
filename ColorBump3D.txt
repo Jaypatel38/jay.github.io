@@ -6,7 +6,7 @@
     "showApplovin" : "1",
     "showAdmob" : "1",
     "showFb" : "0",
-    "InteractionCount" : 1,
+    "InteractionCount" : 2,
     "AL_banner" : "7e86312d10f52f86",
     "AL_int" : "0b2f2673f57883ea",
     "AL_rewarded" : "8350e54e55e36476",
